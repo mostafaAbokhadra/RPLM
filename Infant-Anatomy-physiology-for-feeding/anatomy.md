@@ -35,3 +35,9 @@ watch [this](https://youtube.com/shorts/fowM-Ru53U4?si=jvJWHDinoHCbvfqc)
 
 ### nutritive suckeling and non-nutritive suckeling
 
+ال nutritive suckeling دي بتكون 1 suckel per second يعني البابي بيمص بمعدل مصه واحد فالثانيه ودي هي الرضعات اللي غعليا بتكون مغذيه وبيكون فيها لبن, انما في حاجه اسمها non-nutritve suckeling او الرضعات اللي مفهاش تغذيه حقيقيه للبابي يعني مبيكونش فيها لبن او لبن قليل جدا ودي بتكون ف صورة 2 suckel per second يعني البابي هتلاقيه بيمص بسرعه وبيريح شويه بثيمص بسرعه وبيريح شويه ودي بيكون ليها بعض الفوايد برضو زي تحسبن الحركه المعديه و المعويه او ال peristalsis بتزود العصارات الهاضمه او digestive fluids بتقلل بكاء الطفل وطبعا بتحفز افراز اللبن وبترفع من قوة تحمل الام والبابي للألم
+
+الرضاعه الطبيعيه بتقلل حدوت oxygen desaturation وبتمنع حدوت ال brady cardia عن ال bottle feeding
+
+حركة ال tongu وقت الرضاعه الطبيعيه بتكون perstalitic عادي يعني ف شكل موجه من قدام ل ورا , انما مع ال bottle feeding بتكون شكل piston-like
+
