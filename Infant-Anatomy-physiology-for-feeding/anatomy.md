@@ -41,3 +41,33 @@ watch [this](https://youtube.com/shorts/fowM-Ru53U4?si=jvJWHDinoHCbvfqc)
 
 حركة ال tongu وقت الرضاعه الطبيعيه بتكون perstalitic عادي يعني ف شكل موجه من قدام ل ورا , انما مع ال bottle feeding بتكون شكل piston-like
 
+---
+soft palate close the nose and epiglottis close the larynx
+
+when suckeling the nipple or teat reach near but not at the juction of the hard and soft palate
+
+the nipple base is the point of meet between nipple and aerola
+
+hard palate is shape by tongu movements !
+
+mild cyanosis is commonn
+
+children are nose breather except when hypoxic become mouth and nose breather cause mouth occupy 100% of the mouth so can't breat from
+
+low birth weith and preterm my get fatigu during feeding so -> it's ok to give them some rest and then continue
+
+
+paced bottle feeding solve disorganize feeding cycle problem
+
+give baby rest by lowering the bottle so there is no milk in the bottle nipple and continue or supportive positioning or
+
+reclined positioning (lay back position) it lower pain 3 times, help in hypotonic baby
+
+for the first few feedings even in full term infant, suckeling is usually disorganized
+
+nipple confusion 
+
+hypotonic baby -> tube-feeding device (look at lactational aid) you can put bottle either above, at or below baby's mouth according to his suckeling stenght
+
+any disorganized sucking can be resolved by feeding-tube device solely or with nipple shield
+
