@@ -4,11 +4,7 @@
 
 الكلام ده بيحصل لى الاسبوع ال <mark> 16-18 </mark> من الحمل
 
-البابي لما ييجي يرضع بيمر ب تلت مراحل , اول مرحله اللي هي ال suckeling او المص بعد كده بي swallow او بيبلع المرحله التالته انه ياخد نفسه حبه قبل ما ي suck تاني 
-
 لاحظ ان كلمة suck دي بنستخمها مع الرضاعه من ال bottle بس انما لما يرضع من ال breast البابي هنا بي suckle لانه بيطلع اللبن من ثدي الام ب مجهود اكبر
-
-على الاسبوع ال 28 الابي هيكون قادر انه ينظم العمليه دي كويس اللي هي زي ما قلنا بي scukel ثم بيبلع ثم بيتنفس
 
 البابي لما يوصل 32 اسبوع بيقدر انه ي suckle ال mother breast ويبلع اللبن لحد 10 مرات ورا بعض من غير ما يقف, يعني مش بيكون محتاج يقف كتبر زي ال preterm عشان يتنفس
 
@@ -41,33 +37,82 @@ watch [this](https://youtube.com/shorts/fowM-Ru53U4?si=jvJWHDinoHCbvfqc)
 
 حركة ال tongu وقت الرضاعه الطبيعيه بتكون perstalitic عادي يعني ف شكل موجه من قدام ل ورا , انما مع ال bottle feeding بتكون شكل piston-like
 
----
-soft palate close the nose and epiglottis close the larynx
+----
+### Suck cycle
 
-when suckeling the nipple or teat reach near but not at the juction of the hard and soft palate
+البابي لما ييجي يرضع بيمر ب تلت مراحل , اول مرحله اللي هي ال suckeling او المص بعد كده بي swallow او بيبلع المرحله التالته انه ياخد نفسه حبه قبل ما ي suck تاني 
 
-the nipple base is the point of meet between nipple and aerola
+على الاسبوع ال 28 الابي هيكون قادر انه ينظم العمليه دي كويس اللي هي زي ما قلنا بي scukel ثم بيبلع ثم بيتنفس
 
-hard palate is shape by tongu movements !
+الطبيعي طبعا ان ال عمليه دي مش بتأثر على التنفس اوي وبتكون بنسبة واحد الى واحد الى واحد بمعنى بيمص ف ثانيه بيبلع ف ثانيه وبيتنفس ف ثانيه 
 
-mild cyanosis is commonn
+اول دقيقتين فال suckeling سرعة المص بتكون عاليه عشان نحفز افراز اللبن او ال milk ejection reflex يحصل بعد كده بتبدء تبطأ تدريجيا
 
-children are nose breather except when hypoxic become mouth and nose breather cause mouth occupy 100% of the mouth so can't breat from
+mild cyanosis is common even in well cordinated breating esp. in neonates, baby usually don't give a shit about his cyanosis and continue to suckle and the cyanosis recovers spontaneously, also saturation normally declined during the feeding
 
-low birth weith and preterm my get fatigu during feeding so -> it's ok to give them some rest and then continue
+tongu occupy 100% of the infant's mouth in rest, so can't breath from mouth so children are mainly<mark>nose breather</mark> except when hypoxic become mouth and nose breather
+
+low birth weigth and preterm may get fatigu easily during feeding so -> it's ok to give them some rest and then continue
+
+<mark>paced bottle feeding</mark> solve disorganize feeding cycle problem, in which we remove the bottle nipple or removing the milk from the bottle nipple at frits sign of disoranized feedings to allow the infant to rest
+
+give baby rest by lowering the bottle so there is no milk in the bottle nipple and then continue
+
+supportive positioning (semi elevated side lying with infant's head above his hips) also helps
+
+![](./supportivePosition.png)
 
 
-paced bottle feeding solve disorganize feeding cycle problem
+For breastfeeding, prone positioning on a reclined mother and pressure on the breast to occlude some ducts during rapid milk flow are effective pacing techniques.
 
-give baby rest by lowering the bottle so there is no milk in the bottle nipple and continue or supportive positioning or
+![](./reclinedPosition.png)
 
-reclined positioning (lay back position) it lower pain 3 times, help in hypotonic baby
 
 for the first few feedings even in full term infant, suckeling is usually disorganized
 
-nipple confusion 
+Infant <mark>feeding problems with resultant poor weight gain</mark> may be the earliest indicator of various <mark>neurologic</mark> problems.
 
-hypotonic baby -> tube-feeding device (look at lactational aid) you can put bottle either above, at or below baby's mouth according to his suckeling stenght
+Developmental delays and neuromuscular disorders may not become apparent for many months, but subtle abnormalities in motor tone are usually present in infancy and may present as <mark>oral–motor dysfunction</mark> ,with resultant growth problems
 
-any disorganized sucking can be resolved by feeding-tube device solely or with nipple shield
+choking, brief apnea, or poor pacing of the suckle/swallow/breathe cycle and very long feeding episodes may indicate neourological problems
 
+### causes of inefficient suckeling
+1. preterm (poor neurological function)
+2. hypertonic (disrupt suck cycle rythm)
+3. hypotonic (poor muscles strenght to suckel)
+4. down syndrome
+5. cardiac problems
+6. nipple confusion 
+7. neurological impairments
+8. cleft lip or palate
+9. perinatal asphyxia of fetus
+10. poor weight gain
+
+### solution
+
+if paced feeding, supportive position and reclined positioning didn't work, we can also try the feeding-tube device and nipple shield
+
+tube-feeding device (look at lactational aid website) you can put bottle either above, at or below baby's mouth according to his suckeling stenght
+
+![](https://ibconline.ca/wp-content/uploads/2016/09/image1-2-700x469.jpg)
+
+watch [this](https://vimeo.com/207503100)
+
+**nipple shield**
+
+![](./nippleShield.png)
+
+### suckeling cycle notes
+
+while suckeling, <mark>Depression and elevation of the posterior tongue</mark> happens while the anterior tongue maintains the seal on the breast.
+
+During the feeding, the mother’s highly elastic nipple elongates (two to three times its resting length) into a teat.
+
+the nipple base is the point of meet between nipple and aerola, at that base, <mark>the nipple is held between the upper gum and tongue that covers the lower gum.</mark>
+
+A wave of tongue depression follows from front to back,
+soft palate close the nose and epiglottis close the larynx
+
+when suckeling the nipple or teat reach <mark>near but not at the juction of the hard and soft palate</mark>
+
+<mark>hard palate is shape by tongu movements</mark>
