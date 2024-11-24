@@ -119,3 +119,10 @@ when suckeling the nipple or teat reach <mark>near but not at the juction of the
 <mark>hard palate is shaped by tongu movements.</mark>
 
 ----
+### feeding during sleep
+Forcing the infant to the breast might abolish the rooting reflex and disturb placement of the tongue.
+
+### frequency of feeding
+for the first 6 months, 8-12 times per day which equals to almost 4 hours perday
+
+nigth feeds 1-5 time
