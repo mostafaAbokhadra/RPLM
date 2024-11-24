@@ -102,6 +102,7 @@ watch [this](https://vimeo.com/207503100)
 
 ![](./nippleShield.png)
 
+it's almost similar to feedng tube but with tube wrapped around the nipple in a sheild like material
 ### suckeling cycle notes
 
 while suckeling, <mark>Depression and elevation of the posterior tongue</mark> happens while the anterior tongue maintains the seal on the breast.
@@ -115,4 +116,6 @@ soft palate close the nose and epiglottis close the larynx
 
 when suckeling the nipple or teat reach <mark>near but not at the juction of the hard and soft palate</mark>
 
-<mark>hard palate is shape by tongu movements</mark>
+<mark>hard palate is shaped by tongu movements.</mark>
+
+----
