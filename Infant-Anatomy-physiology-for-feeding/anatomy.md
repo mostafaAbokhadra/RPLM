@@ -126,3 +126,196 @@ Forcing the infant to the breast might abolish the rooting reflex and disturb pl
 for the first 6 months, 8-12 times per day which equals to almost 4 hours perday
 
 nigth feeds 1-5 time
+
+### oral muscles
+- temporalis
+- masseter
+- lateral pterygoid
+- medial pterygoid
+- Buccinator
+- orbicularis oris
+
+![](./mastecationMuscels.png)
+
+### cranial nervers related to suckeling and swallowing
+- trigeminal (5) and facial (7)
+- glossopharengyal
+- hypoglossal
+
+### nerve supply of the tongu
+- hypoglossal nerve for motor function
+- chorda typani, lngual nerve and glossopharyngeal for sensory function
+
+### pracitcal
+- assess facail tone and structures
+
+# anatomy or oral cavity notes
+- lower lip is fully everted
+- upper lip is slightly everted
+- baby should be able to round and shape the lips to maintain it closed sleep and awake and control secretionsk (not droll)
+
+**signs of poor lip seal**:
+
+- leaks in milk (poor lip seal of rapid milk flow)
+- smacking sounds
+- baby frequently fall of the breast
+- intermittent suction and decrease -ve pressure
+
+![](./poorLipSeal.png)
+
+### sucking blister
+- occur when lip holds the breast while the tongue can't
+
+![](./suckelingBlister.png)
+
+
+cranial sacral therapy => lip closure sooner
+
+purse string lips
+
+**lip retraction**: Weakness in lip may cause the infant to use excessive musclar force causing retraction of lip while sucking. This can lead to sucking blisters.
+
+Lip retraction can occur with bottle feeding note that upper lip is
+not flanged out.
+
+![](./lipRetraction.png)
+
+Assess with the finger pad upwards, tongue should be curved and soft not rigid. Should be elastic ,cupped around your digit and moves rhythmically
+
+### suckeling assessment
+wath [this](https://www.youtube.com/watch?v=WJa2CDbPAtI)
+
+### frenotomy assessment
+watch [this](https://www.youtube.com/watch?v=-4G-yV11iYA)
+
+### abnormals tongue
+
+#### tongue tie
+
+![](./tongue%20tie.png)
+
+**kotlow classifications**
+
+![](./tieTonguKotlowClassifications.png)
+
+![](./spooningWithTongueTie.png)
+
+#### macroglossia
+
+![](./macroglossia.png)
+
+solution -> wait untill baby get older so mouth can hold tongu
+
+#### low tone tongue
+- appear as elevated tip of tongue
+
+![](./lowToneTongue.png)
+
+![](./lowTonguTone.png)
+
+### Bunched Tongue
+make a mountain shape with your tongue, making the tongue muscle tense and having the top of the mountain rest on the palate
+
+![](./BunchedTongu.png)
+
+### jaw
+
+excursion الحركات التكراريه بتاعة الفك اثناء المص shouldn't be too wide (cause break in seal) or too narrow (cannot latch on)
+
+**Dancer hand position** to stabilize the jaw
+
+your index and thum under the baby's jaw and the remaining 3 fingers hold your breast
+
+![](./DancerHandPosition.png)
+
+needed with baby with low tone e:g downSyndrome, preterm or cleft palate
+
+**jaw support**
+
+using only the forefinger to stabilize the bony part of the chin
+
+### Deep breast compression
+- useful for low tone baby (weak suckeling) or low amount of milk produced by mother
+- move the baby to the other breast when he stops suckeling and swallowing
+- it increase faty milk
+- you will know that baby is swallowing by chin pause <mark>(sure sign)</mark>
+- you will see him take the non-nutritive suckeling without swollowing
+
+#### micrognathia
+the lower jaw is undersized.
+
+![](./micrognathia.png)
+
+### retrognathia (reccessed chin)
+- the chin it pulled backwark
+- it may cause breathing problems because tongue is pulled back more than normal, represents with stridor, snoring or sleep apnea
+
+![](./retrognathia.png)
+
+**symptoms**
+- horizontal crease below the lower lip is pronounced.
+- lower lip AT REST, tucks behind & under the upper lip/dental ridge.
+- At the breast, baby’s face muscle, primarily around the lips are especially strained.
+(resulting in narrow latch)
+
+![](./micrognathiaSymptoms.png)
+
+diagnosed by an angle less than 49 degree
+
+![](./retrognathiaAngle.png)
+
+good new is MOST baby’s grow out of their recessed chin around 3-4 months.
+As their head, face and neck grow everything lines up- which solves all
+breastfeeding issues usually.
+
+PRIOR to 3-4 months: POSITIONING can help fix lots of the issues caused by
+recessed chin issues. Specifically the “laid back nursing position” or “tummy to
+tummy” or “biological nurturing position”. Gravity helps the latch
+
+![](./layBackPosition.png)
+
+![](./diagnolCrossCardle.png)
+
+#### proganthism
+an extension or bulging out (protrusion) of the lower jaw (mandible).
+
+![](./proganthism.png)
+
+### pierre robin syndrome
+Effective breastfeeding is rarely possible in Pierre robin syndrome
+
+underdeveloped jaw, backward displacement of the tongue and upper airway obstruction
+
+![](./pierre-robin_syndrome.jpg)
+
+### jaw assymetry
+
+![](./jawAssymetry.png)
+
+![](./facialAssymetry.png)
+
+Both previous babies were unable to sustain
+latch or suck nutritively, despite physical
+therapy neither breastfed. Both received
+pumped milk.
+
+both response good to CST (cerebroSacral therapy)
+
+### Cheecks
+
+![](./BuccalfatExam.png)
+
+- Thin cheeks are unable to sustain sufficient vacuum for suction
+- Collapsing cheeks are an indication of instability.
+
+### palate
+- the hard and soft palate
+- check to exclude cleft palate or injury form intubation
+
+![](./palate.png)
+
+#### Epstein Pearls
+- it is The small papule seen in the midline of the palate, represents epithelial tissues that becomes trapped during the palatal fusion.it is very
+small, <mark>harmless</mark> white or yellow nodules that may appear along your newborn baby’s gums or on the roof of their mouth. These bumps are common and usually go away within three months after birth.
+
+![](./EpsteinPearls.png)
