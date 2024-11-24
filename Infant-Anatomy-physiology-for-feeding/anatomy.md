@@ -319,3 +319,12 @@ both response good to CST (cerebroSacral therapy)
 small, <mark>harmless</mark> white or yellow nodules that may appear along your newborn baby’s gums or on the roof of their mouth. These bumps are common and usually go away within three months after birth.
 
 ![](./EpsteinPearls.png)
+
+### hight arched shaped palate
+
+![](./hightArchedShapedPalate.png)
+
+![](./highArched2.png)
+
+![](./hitgArched3.png)
+
