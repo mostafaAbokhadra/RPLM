@@ -169,26 +169,26 @@ nigth feeds 1-5 time
 ![](./suckelingBlister.png)
 
 
-cranial sacral therapy => lip closure sooner
+**cranial sacral therapy** => lip closure sooner
 
-purse string lips
 
-**lip retraction**: Weakness in lip may cause the infant to use excessive musclar force causing retraction of lip while sucking. This can lead to sucking blisters.
+**lip retraction**: Weakness in lip may cause the infant to use excessive musclar force causing retraction of lip while sucking. This can lead to **sucking blisters**.
 
 Lip retraction can occur with bottle feeding note that upper lip is
 not flanged out.
 
 ![](./lipRetraction.png)
 
-Assess with the finger pad upwards, tongue should be curved and soft not rigid. Should be elastic ,cupped around your digit and moves rhythmically
 
 ### suckeling assessment
+Assess with the finger pad upwards, tongue should be curved and soft not rigid. Should be elastic ,cupped around your digit and moves rhythmically
+
 wath [this](https://www.youtube.com/watch?v=WJa2CDbPAtI)
 
 ### frenotomy assessment
 watch [this](https://www.youtube.com/watch?v=-4G-yV11iYA)
 
-### abnormals tongue
+### abnormal tongue
 
 #### tongue tie
 
@@ -204,7 +204,7 @@ watch [this](https://www.youtube.com/watch?v=-4G-yV11iYA)
 
 ![](./macroglossia.png)
 
-solution -> wait untill baby get older so mouth can hold tongu
+**solution** -> wait untill baby get older so mouth can hold tongu
 
 #### low tone tongue
 - appear as elevated tip of tongue
@@ -224,11 +224,11 @@ excursion الحركات التكراريه بتاعة الفك اثناء ال�
 
 **Dancer hand position** to stabilize the jaw
 
-your index and thum under the baby's jaw and the remaining 3 fingers hold your breast
+your index and thumb under the baby's jaw and the remaining 3 fingers hold your breast
 
 ![](./DancerHandPosition.png)
 
-needed with baby with low tone e:g downSyndrome, preterm or cleft palate
+needed with baby with low tone e:g **downSyndrome, preterm or cleft palate**
 
 **jaw support**
 
@@ -236,10 +236,10 @@ using only the forefinger to stabilize the bony part of the chin
 
 ### Deep breast compression
 - useful for low tone baby (weak suckeling) or low amount of milk produced by mother
-- move the baby to the other breast when he stops suckeling and swallowing
-- it increase faty milk
-- you will know that baby is swallowing by chin pause <mark>(sure sign)</mark>
-- you will see him take the non-nutritive suckeling without swollowing
+- when to move the baby to the other breast ? when he stops suckeling and swallowing
+- it is the only evidenced based method to increase fats in milk
+- you will know that baby is swallowing by **chin pause** <mark>(sure sign)</mark>
+- non-nutritive suckeling without swollowing is also beneficial
 
 #### micrognathia
 the lower jaw is undersized.
@@ -260,7 +260,7 @@ the lower jaw is undersized.
 
 ![](./micrognathiaSymptoms.png)
 
-diagnosed by an angle less than 49 degree
+**diagnosed by** an angle less than 49 degree
 
 ![](./retrognathiaAngle.png)
 
@@ -268,9 +268,8 @@ good new is MOST baby’s grow out of their recessed chin around 3-4 months.
 As their head, face and neck grow everything lines up- which solves all
 breastfeeding issues usually.
 
-PRIOR to 3-4 months: POSITIONING can help fix lots of the issues caused by
-recessed chin issues. Specifically the “laid back nursing position” or “tummy to
-tummy” or “biological nurturing position”. Gravity helps the latch
+PRIOR to 3-4 months: **POSITIONING** can help fix lots of the issues caused by
+recessed chin issues. Specifically the **laid back nursing position** or **tummy to tummy** or **biological nurturing position**. Gravity helps the latch
 
 ![](./layBackPosition.png)
 
