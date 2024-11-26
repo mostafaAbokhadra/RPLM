@@ -489,3 +489,5 @@ E. Moves rhythmically?
 6- NOSE:
 A. Congested?
 B. Normal nasal passages?
+
+![](./assessment.png)
