@@ -165,6 +165,7 @@ nigth feeds 1-5 time
 
 ### sucking blister
 - occur when lip holds the breast while the tongue can't
+- lip generate the suction alone not the tongue 
 
 ![](./suckelingBlister.png)
 
@@ -385,3 +386,106 @@ position the breast toward the ‘‘greater segment’’ of the palate, e:i th
    - Parents should understand this to avoid frustration or false hope.
 
 The bottom line is to encourage parents to focus on alternative feeding strategies (like expressed breast milk or specialized bottles) and consult with lactation specialists for tailored guidance.
+
+**spoonFeed**
+
+![](./spoonFeedForCLP.png)
+
+**special Bottle**
+
+![](./specialBottle.png)
+
+**cleft palate position**
+
+![](./cleftPalateFeeding45.png)
+
+![](./CPposition.png)
+
+#### How to breastFeed
+- if cleft is large breast should be **positioned downward** peventing nipple being pushed into the cleft
+- support chin and breast
+- express milk into babay's mouthe to compensate absent suction
+
+## nose
+babys are nose breathers mainly, so obstructed or congested nose impair breathing
+
+releive them first if possible, if not pacing of feeding and allow baby ot rest
+
+#### neonatal teeth
+
+![](./neonatalTeeth.png)
+
+![](./aboutNeonatalTeeth.png)
+
+![](./neonatalTeeth2.png)
+
+
+#### torticollis
+
+![](./torticollis.png)
+
+
+Feeding is facilitated when the mother provides appropriate postural support that flexes the baby at the hips and supports the head in a neutral or slightly extended position.
+
+![](./torticollisPosition.png)
+
+### feeding reflexes
+
+![](./feedingReflexes.png)
+
+#### other refelexes
+![](./otherRefelexes.png)
+
+![](./GraspDanceReflexes.png)
+
+## Stress sings
+hiccups, sneezing, mottling of skin, behave as eye aversion or
+lower state of arousal 
+
+if found postpone assessment
+
+sucking training and skin to skin helps
+
+![](./depressedRootingReflex.png)
+
+### Tongu thrust
+With tongue thrust, children push their tongues forward against the back of their teeth when they’re speaking, swallowing or at rest. Other signs of tongue thrust include mouth breathing and trouble making “s” sounds. Treatments include speech therapy and dental appliances to correct problems related to tongue thrust, like a bad bite.
+
+developed at 28 weeks gest, integrated at 6 months
+
+![](./tonguThrust.png)
+
+### six infant behavioural state
+1. **Crying**: do not bf.
+2-**Active alert** : bf.
+3-**Quiet alert** : bf.
+4-**Drowsy**: no.
+5-**Active sleep** : can be awakened.
+6-**Quiet sleep** : difficult to awake.
+
+# oral assessment
+follow assessment of tone color state and breathing
+assess oral anatomy, feeding refelexes, suck swallow breathing or effectiveness of feeding and latch
+
+1- LIPS:
+A. Forming a tight seal?
+B. Smoothly flanged?
+C. Any leakage?
+2- CHEEKS
+A. Buccal pad of fat
+B. Rounded/ collapsed with sucking
+3-JAW:
+A. Moves rhythmically?
+B. Width of excursion
+C. Malformation ( retrognathia), asymmetry?
+
+4-TONGUE:
+A. Curved?
+B. Soft?
+C. Elastic?
+D. Cupped around digit.
+E. Moves rhythmically?
+5- PALATE: Check for cleft/ injury
+6- NOSE:
+A. Congested?
+B. Normal nasal passages?
