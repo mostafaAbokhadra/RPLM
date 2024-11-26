@@ -56,3 +56,38 @@ often mistaken for thrush
 
 ### signs
 ![](./imgs/signsOfTongueTie.png)
+
+![](./imgs/bristolTongueAssessment.png)
+
+![](./imgs/tabbyTongueAssessment.png)
+
+#### Results
+- <mark>8</mark> indicates normal tongue function
+- <mark>6 or 7</mark> is considered as borderline
+- <mark>5 or below</mark> suggests an impairment of tongue function.
+
+Selection of infants for frenotomy required an additional breastfeeding assessment, but all infants with a score of 4 or less in the audits had a frenotomy, following parental consent
+
+![](./imgs/NotchedHeartShapedTOngues.png)
+
+you can assess tongue tie by <mark>hazelbark</mark> assessment tool
+
+### revision
+Arterial supply of breast -> <mark>internal mammary, lateral thoracic</mark>, subclavian arteryies
+
+venous drainage -> subclavian vein
+
+lymphatic drainage -> axillary lymph node
+
+nerve supply -> 4th intercostal nerve, supplies left breast on 4 Oclock and reach nipple from 5 Oclock, and right breast from 8 Oclock and reach nipple form 7 Oclock
+
+### breast examination during pregenency
+- expressing milk
+- asymmetry is normal (left bigger than right)
+- engorgement is normal
+- pigmentation and areola increase
+- nipple more protactile
+
+if you want to assess if breast is small or patient has hypomastia use tanner scale
+
+### breast hypoplasia
