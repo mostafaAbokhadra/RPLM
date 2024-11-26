@@ -327,3 +327,61 @@ small, <mark>harmless</mark> white or yellow nodules that may appear along your 
 
 ![](./hitgArched3.png)
 
+### cleft lip and palate
+- clift lip is more likely to breastfeed than cleft palate or cleft lip palate
+- small cleft of soft palate may be able to generate suctoin and breastfeed
+
+#### -ve consequences
+- fatigu during breastfeeding
+- prolonged feeding times
+- impaired growth
+
+> [!NOTE]
+> breastfeed protects against otitis media which is hight prevelant in these population
+
+![](./cleftPalate.png)
+
+![](./cleftPalate2.png)
+
+![](./cleftPalate3.png)
+
+
+#### How to breastfeed
+
+the parent may occlude the CL with a thumb or finger and or support the infant's cheeks to decrease the width of the cleft and increase closure around the nipple
+
+![](./CleftLipBreastFeed.png)
+
+infant should be held so that the CL is oriented toward the top of the breast
+
+![](./otherCleftLipTechniques.png)
+
+**For bilateral CL**: straddle position may be more effective that other breastfeeding position
+
+![](./straddlePosition.png)
+
+
+### Cleft Palate
+position the breast toward the ‘‘greater segment’’ of the palate, e:i the side of the palate that has the most intact bone.
+
+**palatal prosthesis** :a device that covers the cleft in the palate
+
+![](./Nasalstent.png)
+
+![](./NasalStent2.png)
+
+### Key Points:
+
+1. **Palatal Prosthesis and Breastfeeding**:  
+   - A **palatal prosthesis** might be used before surgery to help align the baby’s mouth structures for future correction.  
+   - Parents might assume it could also improve breastfeeding by making it easier for the baby to create suction or feed more effectively.
+
+2. **Advising Caution**:  
+   - Parents should be cautious about relying on the prosthesis to improve breastfeeding.  
+   - While it may help slightly, the device is not specifically designed to enhance breastfeeding efficiency or effectiveness.
+
+3. **Realistic Expectations**:  
+   - The device likely **won’t make a significant difference** in breastfeeding outcomes because a cleft palate creates challenges beyond just structural alignment, such as difficulties with suction.  
+   - Parents should understand this to avoid frustration or false hope.
+
+The bottom line is to encourage parents to focus on alternative feeding strategies (like expressed breast milk or specialized bottles) and consult with lactation specialists for tailored guidance.
