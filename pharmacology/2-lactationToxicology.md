@@ -43,3 +43,15 @@ discontinue BF
 
 > [!TIP]
 > the <mark>123</mark> is preferred if applicable
+
+### Thalium
+
+![](./imgs/thalium.png)
+
+### galium
+
+![](./imgs/galium.png)
+
+### Technetium
+
+![](./imgs/techntium.png)
