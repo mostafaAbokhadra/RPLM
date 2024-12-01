@@ -13,7 +13,11 @@ psychotropic durgs E:g <mark>amphetamines</mark> are low in molecular weight and
 > [!IMPORTANT]
 > any thing that pass through blood brain barrier can pass to the milk
 
+### Lipohilicity
+the more lipid soluble the medication the more likely it will transfet into human milk e:g <mark>CNS active drugs</mark> e:g <mark>diazepam, chlorpromazine</mark>
+
 ### durgs that pass to milk
 - barbiturates
 - rantidine
 - psychotropic e:g amphetamines
+- CNS active drugs e:g <mark>diazepam, chlorpromazine</mark>
