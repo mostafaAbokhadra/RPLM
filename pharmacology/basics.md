@@ -49,6 +49,8 @@ some durgs due to poor bioavailability even when high amount of it get diffuesed
 - choose medications with high protein binding capacity e:g <mark>warfarin</mark>
 - choose medications with poor blood brain peentrate on 
 
+> [!IMPORTANT]
+> most medications appear in low subclinical amounts in human milk
 ### durgs that pass to milk
 - barbiturates
 - rantidine
