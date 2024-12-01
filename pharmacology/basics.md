@@ -20,8 +20,19 @@ the more lipid soluble the medication the more likely it will transfet into huma
 > low M/P ratio suggest that very little durg enters milk\
 > but hight M/P ratio <mark>may or may Not</mark> indicate high levels in milk
 
+### Bioavailability
+some durgs due to poor bioavailability even when high amount of it get diffuesed to mother's milk it actually don't harm infant cause these drugs are unstable in stomach and are incompletely absorbed by infants e:g <mark> heparin, insulin, 3rd generation Cephalosporins</mark>
+
 ### durgs that pass to milk
 - barbiturates
 - rantidine
 - psychotropic e:g amphetamines
 - CNS active drugs e:g <mark>diazepam, chlorpromazine</mark>
+
+### Calculation infant exposure
+- this formula only can be applied to an exclusive breast feeding infant
+
+**relative infant dose** = infant drug dose(mg/kg/day) / maternal dose(mg/kg/day)
+
+### safe medication when BF
+- heparin, insulin, 3rd generation Cephalosporins
