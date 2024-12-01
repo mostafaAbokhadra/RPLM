@@ -16,6 +16,10 @@ psychotropic durgs E:g <mark>amphetamines</mark> are low in molecular weight and
 ### Lipohilicity
 the more lipid soluble the medication the more likely it will transfet into human milk e:g <mark>CNS active drugs</mark> e:g <mark>diazepam, chlorpromazine</mark>
 
+> [!NOTE]
+> low M/P ratio suggest that very little durg enters milk\
+> but hight M/P ratio <mark>may or may Not</mark> indicate high levels in milk
+
 ### durgs that pass to milk
 - barbiturates
 - rantidine
