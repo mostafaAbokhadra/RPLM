@@ -59,6 +59,13 @@ some durgs due to poor bioavailability even when high amount of it get diffuesed
 - progesterone
 - estrogen
 
+### durgs that may stimulate milk production
+- drugs that inhibit dopamine receptors in hypothalamus e:g <mark>metoclopramid, domperidone(motelum)</mark>
+- herbs e:g <mark> fenugreek حلبه</mark>
+- greens جرجير, بقدونس الخ 
+- fluid
+- breast feeding
+
 ### durgs that pass to milk
 - barbiturates
 - rantidine
