@@ -51,6 +51,14 @@ some durgs due to poor bioavailability even when high amount of it get diffuesed
 
 > [!IMPORTANT]
 > most medications appear in low subclinical amounts in human milk
+
+### medications that inhibit milk production
+- ergot alkaloids
+- bromocriptine
+- pseudoephedrine
+- progesterone
+- estrogen
+
 ### durgs that pass to milk
 - barbiturates
 - rantidine
