@@ -21,7 +21,7 @@ the more lipid soluble the medication the more likely it will transfet into huma
 > but hight M/P ratio <mark>may or may Not</mark> indicate high levels in milk
 
 ### Bioavailability
-some durgs due to poor bioavailability even when high amount of it get diffuesed to mother's milk it actually don't harm infant cause these drugs are unstable in stomach and are incompletely absorbed by infants e:g <mark> heparin, insulin, 3rd generation Cephalosporins</mark>
+some durgs due to poor bioavailability even when high amount of it get diffuesed to mother's milk it actually don't harm infant cause these drugs are unstable in stomach and are incompletely absorbed by infants e:g <mark> heparin, insulin, 3rd generation Cephalosporins, vancomycin</mark>
 
 ### Calculation infant exposure
 - this formula only can be applied to an exclusive breast feeding infant
@@ -40,6 +40,15 @@ some durgs due to poor bioavailability even when high amount of it get diffuesed
     - unstable infants
     - infants with poor renal output
 
+### minimizing the risk
+- avoid feeding the infant when the durg is at it's maximum level in plasma
+- try to use shorter half-life medications
+- tewmporarly withhold breast feeding for prief exporssure
+- choose medications that produce minimum level in milk e:i high molecular weigh, low bioavailability, low lipophilicity
+- choose medication that are used in pediatrics
+- choose medications with high protein binding capacity e:g <mark>warfarin</mark>
+- choose medications with poor blood brain peentrate on 
+
 ### durgs that pass to milk
 - barbiturates
 - rantidine
@@ -47,4 +56,5 @@ some durgs due to poor bioavailability even when high amount of it get diffuesed
 - CNS active drugs e:g <mark>diazepam, chlorpromazine</mark>
 
 ### safe medication when BF
-- heparin, insulin, 3rd generation Cephalosporins
+- **due to low bioavailability**: heparin (also high molecular weight), insulin, 3rd generation Cephalosporins, vancomycin
+- **due to high protein binding capacity**: warfarin
