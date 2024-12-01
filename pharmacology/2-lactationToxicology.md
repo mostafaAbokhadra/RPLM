@@ -55,3 +55,21 @@ discontinue BF
 ### Technetium
 
 ![](./imgs/techntium.png)
+
+## Persistent organic Pollutants
+
+![](./imgs/POPs.png)
+
+# Digoxin
+
+![](./imgs/digoxin.png)
+
+![](./imgs/POPs2.png)
+
+## NonPersistent Organic Pollutants
+
+![](./imgs/Nops.png)
+
+![](./imgs/Nops2.png)
+
+![](./imgs/Nops3.png)
