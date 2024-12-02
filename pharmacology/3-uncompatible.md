@@ -1,28 +1,29 @@
 
 Most CNS-active durgs like <mark>Psychotropic e:g amphetamines</mark> are low in molecular weight and are very lipid soluble
 
-<makr>neuroleptics e:g diazepam (valium), chlorpromazine(thorazine)</mark> are lipid soluble
+<mark>neuroleptics e:g diazepam (valium), chlorpromazine(thorazine)</mark> are lipid soluble
 
-heparin, insulin, interferon don't pass to milk due to high molecular weight
+<mark>heparin, insulin, interferon</mark> don't pass to milk due to high molecular weight
 
-lithium pass to milk due to low molecular weight and low protein binding capacity
+<mark>lithium</mark> pass to milk due to low molecular weight and low protein binding capacity
 
-high protein binding medictions like NSAIDs, warfarin
+high protein binding medictions like <mark>NSAIDs, warfarin</mark> don't pass
 
-proteins, peptides and amionglycosides are destroyed in GIT, Vancomycin and gaviscon are not absorbed in small intestine, domperidone is significanly metabolized in gut wall, so all of these with low are bioavailability are safe
+<mark>proteins, peptides and amionglycosides</mark> are destroyed in GIT, <mark>Vancomycin and gaviscon</mark> are not absorbed in small intestine, <mark>domperidone</mark> is significanly metabolized in gut wall, so all of these with low bioavailability are safe
 
-doxorubicin and methotrexate despite their low oral bioavailability are still contraindicated with BF
+> [!caution]
+> <mark>doxorubicin and methotrexate</mark> despite their low oral bioavailability are still contraindicated with BF
 
-it takes 5 times the half-live of adrug to be eliminated completely
+> [!NOTE]
+> it takes <mark>5 times</mark> the half-live of a drug to be eliminated completely from the body\
+> **short half-life**: <mark>penicillin, isoniazid</mark>\
+> **long half-life**: <mark>radioactive iodine</mark>
 
-short half-life: penicillin, isoniazid
+### milk plasma ration
 
-long half-life: radioactive iodine
+<mark>rantidine</mark> has high M/P ration, but the absolute dose transferred to infant is still subclinical due to low levels in mother plasma so can be given safely with lactation
 
-milk plasma ration
-
-rantidine has high M/P ration, but the absolute dose transferred to infant is still subclinical due to low levels in plasma 
-
+### Active drugs
 valacylovir(valtrex), codeine, Hydroxyzine (vistaril), fluoxetine(prozac) metabolites into the active drug form, so this form may have much longer half-life than prodrug or parent drug, more e:g include
 - norfluoxetine from fluoxetine
 - normeperidine from meperidine
