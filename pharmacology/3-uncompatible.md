@@ -29,7 +29,23 @@ valacylovir(valtrex), codeine, Hydroxyzine (vistaril), fluoxetine(prozac) metabo
 - normeperidine from meperidine
 - cetirizine(zytrec from hydroxyzine)
 
-in below photo the yellow medication can be used with caution and the red ones are contraindicated with BF
+in below photo the yellow medication can be used with caution and the red ones are contraindicated with BF other mediacations not listed is considered safe.
+
+you can check if a medication is safe with lactation from lactmed website
+
+### Analgesics 
+1. **safe**
+    - NSAIDs e:g ibubrofen, voltarine, ketorolac, etc..
+1. **use with causion**
+    - fentanyl (but avoid patches route)
+    - methadone -> monitor infants withdrawal symptoms
+    - morphine -> monitor sedation, apnea and respiratory distress in infants
+2. **contraindicated**
+    - aspirin -> Rey's syndrome
+    - codeine
+    - oxycodone
+    - tramadol
+    - meperidine
 
 ![](./imgs/dontGiveMedication.png)
 
