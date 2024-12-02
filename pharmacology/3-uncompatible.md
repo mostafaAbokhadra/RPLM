@@ -27,3 +27,46 @@ valacylovir(valtrex), codeine, Hydroxyzine (vistaril), fluoxetine(prozac) metabo
 - norfluoxetine from fluoxetine
 - normeperidine from meperidine
 - cetirizine(zytrec from hydroxyzine)
+
+in below photo the yellow medication can be used with caution and the red ones are contraindicated with BF
+
+![](./imgs/dontGiveMedication.png)
+
+![](./imgs/anesthetic.png)
+
+![](./imgs/antibioticsAndAntifungal.png)
+
+![](./imgs/vaccines.png)
+
+![](./imgs/antihypertensive2.png)
+
+![](./imgs/antiCoagulants.png)
+
+![](./imgs/psychotropics.png)
+
+![](./imgs/antiDepressant.png)
+
+![](./imgs/antimanicAntiSeizures.png)
+
+![](./imgs/antipsychotic.png)
+
+![](./imgs/steroids.png)
+
+![](./imgs/thyroxin.png)
+
+![](./imgs/alcohol.png)
+
+![](./imgs/tobacoo.png)
+
+![](./imgs/caffeine.png)
+
+![](./imgs/ilicitDrugs.png)
+
+![](./imgs/examplesIlicit.png)
+
+![](./imgs/examplesIlicit2.png)
+
+![](./imgs/radioActiveAgent.png)
+
+![](./imgs/radioContrastAgent.png)
+
