@@ -35,10 +35,10 @@ you can check if a medication is safe with lactation from lactmed website
 
 ### Analgesics 
 1. **safe**
-    - NSAIDs e:g ibubrofen, voltarine, ketorolac, etc..
+    - NSAIDs e:g ibuprofen, voltarine, ketorolac, etc..
 1. **use with causion**
     - fentanyl (but avoid patches route)
-    - methadone -> monitor infants withdrawal symptoms
+    - methadone -> monitor infants withdrawal symptoms and infant abstinence syndrome <mark>(better to be avoided)</mark>
     - morphine -> monitor sedation, apnea and respiratory distress in infants
 2. **contraindicated**
     - aspirin -> Rey's syndrome
