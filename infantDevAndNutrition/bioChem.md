@@ -7,63 +7,6 @@
 > ratio of water to solids in human milk is approximately <mark>90:10</mark>\
 > even in hot climate baby doesn't need extra water, human milk is sufficient
 
-**cellular respiration** and how it turns nutrients like carbs, proteins, and fats into energy (ATP):
-
----
-
-### 1. **Starting Point: Breaking Down Nutrients**
-- **Carbs:** Glucose (a sugar) enters directly into the process.
-- **Proteins:** Broken into amino acids, which can enter at different steps.
-- **Fats:** Broken into glycerol and fatty acids. Fatty acids are converted into molecules that can enter later stages.
-
----
-
-### 2. **Stages of Cellular Respiration**
-#### a. **Glycolysis (in the cytoplasm)**  
-   - Glucose is broken into two smaller molecules called **pyruvate**.  
-   - This produces a small amount of ATP and "energy carriers" called **NADH**.  
-   - **Net ATP gain:** 2 ATP.
-
----
-
-#### b. **Pyruvate Conversion (entering mitochondria)**  
-   - Each pyruvate is converted into a molecule called **Acetyl-CoA**.
-   - This step releases **carbon dioxide (CO₂)** as a waste product.
-
----
-
-#### c. **Citric Acid Cycle (Krebs Cycle, in mitochondria)**  
-   - Acetyl-CoA goes through a cycle of chemical reactions.  
-   - This produces:
-     - **NADH and FADH₂** (energy carriers).  
-     - A small amount of ATP.  
-     - **CO₂** as a waste product.  
-
----
-
-#### d. **Electron Transport Chain (ETC) and ATP Production**  
-   - NADH and FADH₂ carry high-energy electrons to the ETC, located in the inner membrane of the mitochondria.  
-   - Electrons "flow" through a series of proteins in the membrane, powering the production of ATP.  
-   - Oxygen is the final electron acceptor, combining with electrons and hydrogen to form water.  
-   - **Most of the ATP (around 28 molecules) is made in this stage.**
-
----
-
-### 3. **End Result: Energy (ATP)**
-- From one glucose molecule, about **30-32 ATP molecules** are made.
-- ATP is the energy currency your cells use for everything—moving, building, and repairing!
-
----
-
-### Why Oxygen Matters  
-- Oxygen is essential because it helps "pull" electrons through the ETC. Without it, the process stops, and cells switch to a less efficient backup (fermentation).
-
----
-
-### Key Idea:  
-- **Glucose → Pyruvate → Acetyl-CoA → Energy carriers → ATP!**
-- Fats and proteins enter at different points, but they ultimately funnel into the same system.
-
 > [!IMPORTANT]
 > human milk provides <mark>60-77Kcal/100ml</mark>, <mark>18-23Kcal/oz(30ml)</mark>\
 > the total fat content in 24hours <mark>vary</mark> from <mark>20g/liter to 50g/liter</mark>\
